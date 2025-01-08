@@ -7,8 +7,14 @@ void displayList(std::vector<T> const &v);
 
 int main()
 {
-    // You can follow along with any code in class here
+    // Task 1
+  std::vector<int> ints = {1, 2, 3, 4, 5};
 
+  std::vector<double> doubles = {2.5, 3.5, -8.9, 10.2, 7.2};
+
+  std::vector<std::string> names
+
+      = {“Vu”, “Henderson”, “Tanara”, “Amy”, “Jilly”};
     
     return 0;
 }
